@@ -1,11 +1,11 @@
 Requests: HTTP for Humans
 =========================
 
-.. image:: https://img.shields.io/pypi/v/requests.svg
-    :target: https://pypi.python.org/pypi/requests
+.. image:: https://img.shields.io/pypi/v/flask-ask.svg
+    :target: https://pypi.python.org/pypi/flask-ask
 
-.. image:: https://img.shields.io/pypi/dm/requests.svg
-        :target: https://pypi.python.org/pypi/requests
+.. image:: https://img.shields.io/pypi/l/flask-ask.svg
+        :target: http://www.apache.org/licenses/LICENSE-2.0
 
 Requests is the only *Non-GMO* HTTP library for Python, safe for human
 consumption.
